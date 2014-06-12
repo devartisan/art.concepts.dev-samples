@@ -1,0 +1,32 @@
+A yuChen Technology Development Work Log File
+DATE: 06/01/14 - 22:17:08                    syslog.log
+
+system started ...
+initialize the socket library...
+end of socket library initialization...
+Retrieve the local host and address:
+Machine Name:jupiter
+IP Address:192.168.1.102
+This Server Configuration
+--------------- Summary of socket settings -------------------
+   Socket Id:     360
+   port #:        1000
+   debug:         false
+   reuse addr:    false
+   keep alive:    true
+   send buf size: 65536
+   recv bug size: 65536
+   blocking:      true
+   linger on:     false
+   linger seconds: 0
+----------- End of Summary of socket settings ----------------
+server finished binding process ...
+server is waiting for client connections...
+==> Client [ATLANTIS] is connected
+server about to shutdown...
+shutdown successful - good bye!!!
+
+A yuChen Technology Development Work Log File
+DATE: 06/01/14 - 22:22:48                    syslog.log
+
+Execution time: 5 minutes 40 seconds

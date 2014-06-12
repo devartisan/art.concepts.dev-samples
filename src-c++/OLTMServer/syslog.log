@@ -1,0 +1,39 @@
+A yuChen Technology Development Work Log File
+DATE: 06/02/14 - 03:15:20                    syslog.log
+
+system started ...
+initialize the socket library...
+end of socket library initialization...
+Retrieve the local host and address:
+Machine Name:jupiter
+IP Address:192.168.1.102
+This Server Configuration
+--------------- Summary of socket settings -------------------
+   Socket Id:     340
+   port #:        1000
+   debug:         false
+   reuse addr:    false
+   keep alive:    true
+   send buf size: 65536
+   recv bug size: 65536
+   blocking:      true
+   linger on:     false
+   linger seconds: 0
+----------- End of Summary of socket settings ----------------
+server finished binding process ...
+server is waiting for client connections...
+==> Client [ATLANTIS] is connected
+!! your party has shut down the connection... 
+Error detect: 
+		==> error code: 10054
+		==> error message: error calling send():
+The virtual circuit was reset by the remote side executing a "hard" 
+or "abortive" close. For UPD sockets, the remote host was unable to
+deliver a previously sent UDP datagram and responded with a
+"Port Unreachable" ICMP packet. The application should close
+the socket as it is no longer usable.
+
+A yuChen Technology Development Work Log File
+DATE: 06/02/14 - 03:18:31                    syslog.log
+
+Execution time: 3 minutes 11 seconds
